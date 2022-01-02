@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace GravityBlockDisable
 {
-    public class Class1
+    public class Config
     {
+        public int SecondsBetweenGravChecks = 300;
+
+        public List<String> BlockPairNamesToDisableOutOfGrav = new List<string>();
     }
 }

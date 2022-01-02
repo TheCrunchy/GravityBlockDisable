@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>GravityBlockDisable</Name>
+  <Guid>bcf58858-3b95-45e2-bc37-d32d3b618d5c</Guid>
+  <Version>v1.0</Version>
+</PluginManifest>
